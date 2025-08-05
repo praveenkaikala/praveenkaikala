@@ -14,10 +14,9 @@
 - 💼 Currently interning at **iPixelZen**, building a CRM tool  
 - 💻 Former Frontend Developer Intern at **Gymforce**  
 - 🧠 Learning: **TypeScript**, **System Design**, and **Testing**  
-- 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024**  
-- 🔭 Building: **Employee Attendance App** with geolocation + multi-office support  
+- 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024** 
 - 💬 Ask me about: **React**, **Next.js**, **Tailwind CSS**, **Node.js**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio](https://yourportfolio.com)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio]([https://yourportfolio.com](https://polite-fox-1ec6a8.netlify.app/))
 
 ---
 
@@ -29,14 +28,3 @@ Database:  MongoDB | MySQL
 Others:    Git | VSCode | Linux | Redux | Postman
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkaikala&show_icons=true&theme=radical" alt="Praveen's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkaikala&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkaikala&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
----
-
-### ✅ What to Do Next:
-- Replace `https://yourportfolio.com` with your actual portfolio URL (or remove it if not available yet).
-- Replace `youremail@gmail.com` with your email.
-- Add this to your GitHub repo: `praveenkaikala/praveenkaikala/README.md`.
-- Pin 6 of your top repositories on your profile.
-
-Would you like me to generate this as a downloadable `.md` file?
-
