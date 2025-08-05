@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- README.md for yourusername/yourusername -->
 
-<!--
-**praveenkaikala/praveenkaikala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Praveen Kumar Kaikala</h1>
+<h3 align="center">Frontend Developer | CSE Undergrad | MERN Stack Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 3rd Year Computer Science Engineering Student  
+- 💻 Former Frontend Developer Intern at **Gymforce**  
+- 🧠 Currently learning **TypeScript**, **System Design**, and **Testing**  
+- 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024**  
+- 🔭 Working on: **Employee Attendance App** using geolocation and multi-office support  
+- 💬 Ask me about: **React**, **Next.js**, **Tailwind**, and **Node.js**  
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio](https://yourportfolio.com)
+
+---
+
+### 🛠 Tech Stack
+```js
+Frontend:  React.js | Next.js | HTML | CSS | JavaScript | Tailwind CSS  
+Backend:   Node.js | Express.js | REST APIs  
+Database:  MongoDB | MySQL  
+Others:    Git | VSCode | Linux | Redux | Postman  
