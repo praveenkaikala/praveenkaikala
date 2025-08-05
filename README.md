@@ -30,7 +30,7 @@
 
 #### 💻 Frontend Developer Intern — Gymforce  
 📍 *Remote | Jan 2025 – Mar 2025*  
-- Designed and implemented responsive UI for fitness membership platform  
+- Designed and implemented responsive UI for Gym management platform  
 - Integrated APIs and built user-friendly interfaces using **React** and **Next.js**  
 - Enhanced performance and accessibility across multiple components  
 
