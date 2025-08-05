@@ -16,7 +16,7 @@
 - 🧠 Learning: **TypeScript**, **System Design**, and **Testing**  
 - 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024** 
 - 💬 Ask me about: **React**, **Next.js**, **Tailwind CSS**, **Node.js**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio]([https://yourportfolio.com](https://polite-fox-1ec6a8.netlify.app/))
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio](https://yourportfolio.com](https://polite-fox-1ec6a8.netlify.app/)
 
 ---
 
