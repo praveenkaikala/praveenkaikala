@@ -1,7 +1,7 @@
 <!-- README.md for praveenkaikala/praveenkaikala -->
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar Kaikala</h1>
-<h3 align="center">Full Stack Developer | Final Year CSE Student</h3>
+<h3 align="center">Frontend Developer | Final Year CSE Student | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkaikala&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkaikala" />
@@ -14,9 +14,31 @@
 - 💼 Currently interning at **iPixelZen**, building a CRM tool  
 - 💻 Former Frontend Developer Intern at **Gymforce**  
 - 🧠 Learning: **TypeScript**, **System Design**, and **Testing**  
-- 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024** 
+- 🏆 3rd Place Winner @ **Vedic Vision Hackathon 2024**  
+- 🔭 Building: **Employee Attendance App** with geolocation + multi-office support  
 - 💬 Ask me about: **React**, **Next.js**, **Tailwind CSS**, **Node.js**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio](https://yourportfolio.com](https://polite-fox-1ec6a8.netlify.app/)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveenkaikala) | [Portfolio](https://yourportfolio.com](https://polite-fox-1ec6a8.netlify.app/))
+
+---
+
+### 💼 Experience
+
+#### 🚀 Frontend Developer Intern — iPixelZen  
+📍 *Remote | Jun 2025 – Present*  
+- Developing a custom CRM system for managing workflows, tasks, and lead pipelines  
+- Working with **React**, **Tailwind CSS**, **Redux**
+- Built dynamic components like workflow builders, modals, and conditional forms  
+
+#### 💻 Frontend Developer Intern — Gymforce  
+📍 *Remote | Jan 2025 – Mar 2025*  
+- Designed and implemented responsive UI for fitness membership platform  
+- Integrated APIs and built user-friendly interfaces using **React** and **Next.js**  
+- Enhanced performance and accessibility across multiple components  
+
+#### 🏆 Hackathon Participant — Vedic Vision Hackathon  
+📍 *Onsite | Mar 2024*  
+- Secured **3rd place** by building a smart notification & resource-sharing platform  
+- Focused on problem-solving and fast prototyping with the **MERN stack**
 
 ---
 
