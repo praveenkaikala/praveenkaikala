@@ -50,10 +50,3 @@ Others:    Git | VSCode | Linux | Redux | Postman
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkaikala&show_icons=true&theme=radical" alt="Praveen's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkaikala&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkaikala&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
----
-
-### 🟩 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=praveenkaikala&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
-
----
