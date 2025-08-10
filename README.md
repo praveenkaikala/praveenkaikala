@@ -20,7 +20,7 @@
 
 ### 💼 Experience
 
-#### 🚀 Frontend Developer Intern — iPixelZen  
+#### 🚀 SDE Intern — iPixelZen  
 📍 *Remote | Jun 2025 – Present*  
 - Developing a custom CRM system for managing workflows, tasks, and lead pipelines  
 - Working with **React**, **Tailwind CSS**, **Redux**
