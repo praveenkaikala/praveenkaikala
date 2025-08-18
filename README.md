@@ -27,13 +27,13 @@
 - Built dynamic components like workflow builders, modals, and conditional forms  
 
 #### 💻 Frontend Developer Intern — Gymforce  
-📍 *Remote | Jan 2025 – Mar 2025*  
+📍 *Remote | Jun 2024 – sep 2024*  
 - Designed and implemented responsive UI for Gym management platform  
 - Integrated APIs and built user-friendly interfaces using **React** and **Next.js**  
 - Enhanced performance and accessibility across multiple components  
 
 #### 🏆 Hackathon Participant — Vedic Vision Hackathon  
-📍 *Onsite | Mar 2024*  
+📍 *Onsite | Aug 2024*  
 - Secured **3rd place** by building a smart notification & resource-sharing platform  
 - Focused on problem-solving and fast prototyping with the **MERN stack**
 
